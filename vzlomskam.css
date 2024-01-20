@@ -1,0 +1,49 @@
+body {
+
+    background-image: url(https://kartinki.pics/uploads/posts/2022-12/1669943757_1-kartinkin-net-p-fon-dlya-insti-oboi-1.jpg);
+    }
+.form {
+    display: flex;
+    justify-content: center;
+   border-radius: 20px;
+   position: absolute;
+   left: 750px;
+   bottom: 740px;
+
+}
+.fed {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 860px;
+    bottom: 660px;
+    color: aqua;
+    height: 30px;
+
+}
+.fedo {
+    width: 150px;
+    height: 25px;
+    border-radius: 9px;
+    background:rgb(250, 255, 254);
+
+    }
+    .fedor 
+    {
+        border-radius: 9px;
+        width: 150px;
+        height: 25px;
+        background:snow;
+        
+     
+    }
+    .we {
+border-radius: 8px;
+width: 100px;
+height: 35px;
+background:skyblue ;
+    }
+    h1 {
+        display: flex;
+        justify-content: center;
+    }
